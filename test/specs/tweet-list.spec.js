@@ -9,6 +9,12 @@ suite('App', () => {
 
     it('should render Tweet item in TweetList', () => {
         const wrapper = mount(TweetList, {
+            propsData:{
+              tweets: [
+                  {id:'dfsfsdfsf', body: 'dfsfsddf'},
+                  {id:'sdfsdf', body: 'okokok'}
+              ]
+            },
             stubs:{
                 "b-card" : true,
                 //"b-card" : '<p>Lorem ipsum</p>',

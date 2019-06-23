@@ -1,10 +1,10 @@
 <template>
     <div>
-        <Tweet></Tweet>
-        <Tweet></Tweet>
-        <Tweet></Tweet>
-        <Tweet></Tweet>
-        <Tweet></Tweet>
+        <Tweet v-for="item in tweets"
+               :key="item.id"
+               :tweet="item">
+        </Tweet>
+
     </div>
 </template>
 
@@ -12,7 +12,15 @@
     import Tweet from './tweet';
     export default {
         name: 'TweetList',
-        components: { Tweet }
+        components: {
+            Tweet
+        },
+        props:{
+            tweets: Array
+        },
+        mounted() {
+            console.log(this.tweets)
+        }
     };
 
 </script>
