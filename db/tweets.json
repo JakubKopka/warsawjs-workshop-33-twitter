@@ -1,0 +1,54 @@
+{
+  "tweets": [
+    {
+      "id": "d080790d-1dec-5356-815c-3ce86b205e73",
+      "created_time": "Fri Jan 11 2019 13:35:25 GMT+0100 (czas środkowoeuropejski standardowy)",
+      "author": {
+        "id": "00d39913-02dc-5461-88cd-88037c5832e8",
+        "name": "Kirstin Dickinson",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/kikillo/128.jpg"
+      },
+      "body": "Fedowno rip nechu co ofzupgo bozudorik fa muju pibcu kuihe ogezimze le."
+    },
+    {
+      "id": "5aca8c66-c3e6-5899-b155-955b6a4894e2",
+      "created_time": "Thu May 09 2019 03:42:27 GMT+0200 (czas środkowoeuropejski letni)",
+      "author": {
+        "id": "dbab49f2-1fcf-5a49-bab1-2670b47a0b4f",
+        "name": "Amos Schimmel",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/mrebay007/128.jpg"
+      },
+      "body": "Puvimne loapeid ero ofpenna vucicme hid dudlubec lazfuno emteglob uthos zab juz."
+    },
+    {
+      "id": "15b12973-845b-56e5-92f9-ec6a6142a0c7",
+      "created_time": "Sun Jul 29 2018 12:46:26 GMT+0200 (czas środkowoeuropejski letni)",
+      "author": {
+        "id": "791c33fe-9a5d-5d36-8f11-f14dad77fc86",
+        "name": "Dejah Boehm",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/arindam_/128.jpg"
+      },
+      "body": "Wemiafe cokmop guleva umibeif wuwodis hip ota won verog cuf vatdouj bon puvde."
+    },
+    {
+      "id": "f4e56523-aa17-5ded-854b-781b366fd608",
+      "created_time": "Thu Apr 11 2019 14:22:09 GMT+0200 (czas środkowoeuropejski letni)",
+      "author": {
+        "id": "023ec8e8-5f6f-59b1-b3e5-1e7dea1b7095",
+        "name": "Anibal Weissnat",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/pixage/128.jpg"
+      },
+      "body": "Tuw hiw lib tejsasta rof buseoh kucdojud ig liv hodo ate hig povhe tarosu."
+    },
+    {
+      "id": "e15ae9a1-b6a9-5b95-a127-787b28ffec34",
+      "created_time": "Sun Oct 07 2018 12:04:53 GMT+0200 (czas środkowoeuropejski letni)",
+      "author": {
+        "id": "fc250fd7-b141-5adb-b0ac-aa593aa07f5e",
+        "name": "Otto Johns",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/coreyginnivan/128.jpg"
+      },
+      "body": "Bap aze dem wa zungiur zoahuon duezi en lu vihin zerij kobgu wubu re lepnadbe ejnesge deaw mocipul."
+    }
+  ]
+}
