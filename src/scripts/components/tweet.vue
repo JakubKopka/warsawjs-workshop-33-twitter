@@ -1,7 +1,9 @@
 <template>
-    <div>
-        To jest tweet
-    </div>
+    <b-card class="m-3">
+        <b-card-text>
+            Mój tweet
+        </b-card-text>
+    </b-card>
 </template>
 
 <script>

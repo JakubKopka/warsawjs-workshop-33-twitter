@@ -8,7 +8,13 @@ import { mount } from '@vue/test-utils';
 suite('App', () => {
 
     it('should render Tweet item in TweetList', () => {
-        const wrapperTweetList = mount(TweetList)
-        assert.ok(wrapperTweetList.contains(Tweet));
+        const wrapper = mount(TweetList, {
+            stubs:{
+                "b-card" : true,
+                //"b-card" : '<p>Lorem ipsum</p>',
+                "b-card-text" : true
+            }
+        });
+        assert.ok(wrapper.contains(Tweet));
     });
 });
